@@ -1,1 +1,1 @@
-So this is the git version of "hello world"?
+I just changed the message!
